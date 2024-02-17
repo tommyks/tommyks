@@ -50,11 +50,7 @@ All labs are from [NDG Security+ v4](https://www.netdevgroup.com/online/courses/
 <a href="https://www.qualys.com/training/course/vmdr/" /><img src="https://img.shields.io/badge/-Qualys_Certified_Specialist-FF0000?&style=for-the-badge&logo=Qualys&logoColor=white" />
 </div>
 
-## Projects
-- Analyzing Types of Web Application Attacks
-- Vulnerability Checks with OpenVAS
-- Identifying & Analyzing NIDS/HIDS Alerts
-- Final Skills Assessment
-- Capturing Network Traffic
-- Using Autopsy for Forensics and Data Recovery
-- Incident Response Procedures
+## Final Skill Exam
+Here is the final skill exam I had taken for this course. Please compare both files side by side.
+- [Exam instructions](https://github.com/tommyks/tommyks/blob/main/Final%20Skills%20Assessment%20for%20IT-175-1.pdf)
+- [Work that I completed](https://github.com/tommyks/tommyks/blob/main/Final%20Skills%20Assessment.pdf)

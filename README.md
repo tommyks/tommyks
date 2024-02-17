@@ -13,8 +13,9 @@ My courses in cybersecurity and networking have led me to develop a passion for 
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Web Application Firewall Management and Configuration | Final Skills Assessment|
+| Threat Hunting, Security Monitoring, and Triage Analysis | Final Skills Assessment|
+| Log Management and Log Aggregation | Final Skills Assessment|
 
 ## Tools
 

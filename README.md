@@ -8,18 +8,18 @@ I am currently a student with an interest in technology and security.
 My courses in cybersecurity and networking have led me to develop a passion for the field. I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-All labs are from NDG Security+ v4 and have been completed. Here are some highlights from the labs:
+All labs are from [NDG Security+ v4](https://www.netdevgroup.com/online/courses/cybersecurity/ndg-security%2B-v4), and all labs have been completed. Here are some highlights from the labs:
 
 | Skill                                         | Associated Lab         |
 |-----------------------------------------------|----------------------------|
-| Vulnerability Scanning & Assessment | <a href="https://www.netdevgroup.com/online/courses/cybersecurity/ndg-security%2B-v4">Lab 6: Vulnerability Checks with OpenVAS |
-| Network Traffic Monitoring & Attack Detection | <a href="https://www.netdevgroup.com/online/courses/cybersecurity/ndg-security%2B-v4">Lab 8: Identifying & Analyzing NIDS/HIDS Alerts |
-| Firewall Management & Configuration | <a href="https://www.netdevgroup.com/online/courses/cybersecurity/ndg-security%2B-v4">Lab: 17 Configuring a Network-Based Firewall |
-| Threat Hunting, Security Monitoring, & Triage Analysis | <a href="https://www.netdevgroup.com/online/courses/cybersecurity/ndg-security%2B-v4">Lab 8: Identifying & Analyzing NIDS/HIDS Alerts |
-| Incident Reponse & Analysis | <a href="https://www.netdevgroup.com/online/courses/cybersecurity/ndg-security%2B-v4">Lab 23: Incident Response Procedures |
-| Penetration Testing | <a href="https://www.netdevgroup.com/online/courses/cybersecurity/ndg-security%2B-v4">Lab 3: Analyzing Types of Web Application Attacks |
-| PCAP Analysis | <a href="https://www.netdevgroup.com/online/courses/cybersecurity/ndg-security%2B-v4">Lab 22: Capturing Network Traffic |
-| Digital Forensics | <a href="https://www.netdevgroup.com/online/courses/cybersecurity/ndg-security%2B-v4">Lab 25: Using Autopsy for Forensics and Data Recovery |
+| Vulnerability Scanning & Assessment | <a href="https://github.com/tommyks/tommyks/blob/main/NDG_SecPlusv4_Lab_06.pdf">Lab 6: Vulnerability Checks with OpenVAS |
+| Network Traffic Monitoring & Attack Detection | <a href="https://github.com/tommyks/tommyks/blob/main/NDG_SecPlusv4_Lab_08.pdf">Lab 8: Identifying & Analyzing NIDS/HIDS Alerts |
+| Firewall Management & Configuration | <a href="https://github.com/tommyks/tommyks/blob/main/NDG_SecPlusv4_Lab_17.pdf">Lab: 17 Configuring a Network-Based Firewall |
+| Threat Hunting, Security Monitoring, & Triage Analysis | <a href="https://github.com/tommyks/tommyks/blob/main/NDG_SecPlusv4_Lab_08.pdf">Lab 8: Identifying & Analyzing NIDS/HIDS Alerts |
+| Incident Reponse & Analysis | <a href="https://github.com/tommyks/tommyks/blob/main/NDG_SecPlusv4_Lab_23.pdf">Lab 23: Incident Response Procedures |
+| Penetration Testing | <a href="https://github.com/tommyks/tommyks/blob/main/NDG_SecPlusv4_Lab_03.pdf">Lab 3: Analyzing Types of Web Application Attacks |
+| PCAP Analysis | <a href="https://github.com/tommyks/tommyks/blob/main/NDG_SecPlusv4_Lab_22.pdf">Lab 22: Capturing Network Traffic |
+| Digital Forensics | <a href="https://github.com/tommyks/tommyks/blob/main/NDG_SecPlusv4_Lab_25.pdf">Lab 25: Using Autopsy for Forensics and Data Recovery |
 
 ## Tools
 

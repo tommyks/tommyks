@@ -54,7 +54,6 @@ My courses in cybersecurity and networking have led me to develop a passion for 
 - Vulnerability Checks with OpenVAS
 - Identifying & Analyzing NIDS/HIDS Alerts
 - Final Skills Assessment
-- Burp Suite Penetration testing
 - Capturing Network Traffic
 - Using Autopsy for Forensics and Data Recovery
 - Incident Response Procedures

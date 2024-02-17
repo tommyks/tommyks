@@ -24,15 +24,15 @@ My courses in cybersecurity and networking have led me to develop a passion for 
 
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nmap-A020F0?&style=for-the-badge&logo=Nmap&logoColor=white" />
-    <img src="https://img.shields.io/badge/-pfSense-000080?&style=for-the-badge&logo=pfSense&logoColor=white" />
+    <a href="https://www.wireshark.org/"><img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <a href="https://suricata.io/"><img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <a href="https://nmap.org/"><img src="https://img.shields.io/badge/-Nmap-A020F0?&style=for-the-badge&logo=Nmap&logoColor=white" />
+    <a href="https://www.pfsense.org/"><img src="https://img.shields.io/badge/-pfSense-000080?&style=for-the-badge&logo=pfSense&logoColor=white" />
 </div>
 
 ### Penetration Testing
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <a href="https://portswigger.net/solutions/penetration-testing"<img src="https://img.shields.io/badge/-Burp_Suite-FF7F50?&style=for-the-badge&logo=PortSwigger&logoColor=white" />
 </div>
 
 ### SIEM

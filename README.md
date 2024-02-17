@@ -5,7 +5,7 @@ I am currently a student with an interest in technology and security.
 
 ## Objective
 
-My courses in cybersecurity and networking have led me to develop a passion for the field. I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My courses in cybersecurity and networking have led me to develop a passion for the field. I am now eager to make that transition, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 All labs are from [NDG Security+ v4](https://www.netdevgroup.com/online/courses/cybersecurity/ndg-security%2B-v4), and all labs have been completed. Here are some highlights from the labs:

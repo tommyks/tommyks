@@ -11,14 +11,14 @@ My courses in cybersecurity and networking have led me to develop a passion for 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Vulnerability Scanning & Assessment | Lab 6: Vulnerability Checks with OpenVAS |
-| Network Traffic Monitoring & Attack Detection | Lab 8: Identifying & Analyzing NIDS/HIDS Alerts |
-| Firewall Management & Configuration | Lab: 17 Configuring a Network-Based Firewall |
-| Threat Hunting, Security Monitoring, & Triage Analysis | Lab 8: Identifying & Analyzing NIDS/HIDS Alerts |
-| Incident Reponse & Analysis | Lab 23: Incident Response Procedures |
-| Penetration Testing | Lab 3: Analyzing Types of Web Application Attacks |
-| PCAP Analysis | Lab 22: Capturing Network Traffic |
-| Digital Forensics | Lab 25: Using Autopsy for Forensics and Data Recovery |
+| Vulnerability Scanning & Assessment | <a href="https://www.netdevgroup.com/online/courses/cybersecurity/ndg-security%2B-v4">Lab 6: Vulnerability Checks with OpenVAS |
+| Network Traffic Monitoring & Attack Detection | <a href="https://www.netdevgroup.com/online/courses/cybersecurity/ndg-security%2B-v4">Lab 8: Identifying & Analyzing NIDS/HIDS Alerts |
+| Firewall Management & Configuration | <a href="https://www.netdevgroup.com/online/courses/cybersecurity/ndg-security%2B-v4">Lab: 17 Configuring a Network-Based Firewall |
+| Threat Hunting, Security Monitoring, & Triage Analysis | <a href="https://www.netdevgroup.com/online/courses/cybersecurity/ndg-security%2B-v4">Lab 8: Identifying & Analyzing NIDS/HIDS Alerts |
+| Incident Reponse & Analysis | <a href="https://www.netdevgroup.com/online/courses/cybersecurity/ndg-security%2B-v4">Lab 23: Incident Response Procedures |
+| Penetration Testing | <a href="https://www.netdevgroup.com/online/courses/cybersecurity/ndg-security%2B-v4">Lab 3: Analyzing Types of Web Application Attacks |
+| PCAP Analysis | <a href="https://www.netdevgroup.com/online/courses/cybersecurity/ndg-security%2B-v4">Lab 22: Capturing Network Traffic |
+| Digital Forensics | <a href="https://www.netdevgroup.com/online/courses/cybersecurity/ndg-security%2B-v4">Lab 25: Using Autopsy for Forensics and Data Recovery |
 
 ## Tools
 

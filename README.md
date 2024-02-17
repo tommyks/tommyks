@@ -8,9 +8,9 @@ I am currently a student with an interest in technology and security.
 My courses in cybersecurity and networking have led me to develop a passion for the field. I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-All labs have been completed, and here are some highlights from the labs:
+All labs are from NDG Security+ v4 and have been completed. Here are some highlights from the labs:
 
-| Skill                                         | Associated Project         |
+| Skill                                         | Associated Lab         |
 |-----------------------------------------------|----------------------------|
 | Vulnerability Scanning & Assessment | <a href="https://www.netdevgroup.com/online/courses/cybersecurity/ndg-security%2B-v4">Lab 6: Vulnerability Checks with OpenVAS |
 | Network Traffic Monitoring & Attack Detection | <a href="https://www.netdevgroup.com/online/courses/cybersecurity/ndg-security%2B-v4">Lab 8: Identifying & Analyzing NIDS/HIDS Alerts |

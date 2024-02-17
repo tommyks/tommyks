@@ -24,29 +24,29 @@ My courses in cybersecurity and networking have led me to develop a passion for 
 
 ### Network
 <div>
-    <a href="https://www.wireshark.org/"><img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <a href="https://suricata.io/"><img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <a href="https://nmap.org/"><img src="https://img.shields.io/badge/-Nmap-A020F0?&style=for-the-badge&logo=Nmap&logoColor=white" />
-    <a href="https://www.pfsense.org/"><img src="https://img.shields.io/badge/-pfSense-000080?&style=for-the-badge&logo=pfSense&logoColor=white" />
+    <a href="https://www.wireshark.org/" /><img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <a href="https://suricata.io/" /><img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <a href="https://nmap.org/" /><img src="https://img.shields.io/badge/-Nmap-A020F0?&style=for-the-badge&logo=Nmap&logoColor=white" />
+    <a href="https://www.pfsense.org/" /><img src="https://img.shields.io/badge/-pfSense-000080?&style=for-the-badge&logo=pfSense&logoColor=white" />
 </div>
 
 ### Penetration Testing
 <div>
-    <a href="https://portswigger.net/solutions/penetration-testing"<img src="https://img.shields.io/badge/-Burp_Suite-FF7F50?&style=for-the-badge&logo=PortSwigger&logoColor=white" />
+    <a href="https://portswigger.net/solutions/penetration-testing" /><img src="https://img.shields.io/badge/-Burp_Suite-FF7F50?&style=for-the-badge&logo=PortSwigger&logoColor=white" />
 </div>
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Security_Onion-4169E1?&style=for-the-badge&logo=SecurityOnion&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Qualys_VMDR-FF0000?&style=for-the-badge&logo=Qualys&logoColor=white" />
+    <a href="https://securityonionsolutions.com/" /><img src="https://img.shields.io/badge/-Security_Onion-4169E1?&style=for-the-badge&logo=SecurityOnion&logoColor=white" />
+    <a href="https://www.qualys.com/apps/vulnerability-management-detection-response/" /><img src="https://img.shields.io/badge/-Qualys_VMDR-FF0000?&style=for-the-badge&logo=Qualys&logoColor=white" />
 </div>
 
 ## Certifications
 
 <div>
-<img src="https://img.shields.io/badge/-CompTIA_Security%2B-b30000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Google_Cybersecurity_Specialization-007ACC?&style=for-the-badge&logo=Google&logoColor=white" />
-<img src="https://img.shields.io/badge/-Qualys_Certified_Specialist-FF0000?&style=for-the-badge&logo=Qualys&logoColor=white" />
+<a href="https://www.credly.com/badges/92cdc277-ba07-4a5c-baf6-7b81e0444133/public_url" /><img src="https://img.shields.io/badge/-CompTIA_Security%2B-b30000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<a href="https://coursera.org/share/501d9a0266936b68ea2cfd37bd480b64" /><img src="https://img.shields.io/badge/-Google_Cybersecurity_Specialization-007ACC?&style=for-the-badge&logo=Google&logoColor=white" />
+<a href="https://www.qualys.com/training/course/vmdr/" /><img src="https://img.shields.io/badge/-Qualys_Certified_Specialist-FF0000?&style=for-the-badge&logo=Qualys&logoColor=white" />
 </div>
 
 ## Projects

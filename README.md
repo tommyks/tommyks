@@ -45,9 +45,9 @@ All labs are from [NDG Security+ v4](https://www.netdevgroup.com/online/courses/
 ## Certifications
 
 <div>
-<a href="https://www.credly.com/badges/92cdc277-ba07-4a5c-baf6-7b81e0444133/public_url" /><img src="https://img.shields.io/badge/-CompTIA_Security%2B-b30000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<a href="https://coursera.org/share/501d9a0266936b68ea2cfd37bd480b64" /><img src="https://img.shields.io/badge/-Google_Cybersecurity_Specialization-007ACC?&style=for-the-badge&logo=Google&logoColor=white" />
-<a href="https://www.qualys.com/training/course/vmdr/" /><img src="https://img.shields.io/badge/-Qualys_Certified_Specialist-FF0000?&style=for-the-badge&logo=Qualys&logoColor=white" />
+<a href="https://cp.certmetrics.com/CompTIA/en/public/verify/credential/0GRQTN56C2BE1LGH" /><img src="https://img.shields.io/badge/-CompTIA_Security%2B-b30000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<a href="https://cp.certmetrics.com/CompTIA/en/public/verify/credential/f4659dc5403e4a36898be27ca755ec0a" /><img src="https://img.shields.io/badge/-CompTIA_network%2B-b30000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<a href="https://cp.certmetrics.com/CompTIA/en/public/verify/credential/3c2fbc467ba44300bd742e8b8d56f52c" /><img src="https://img.shields.io/badge/-CompTIA_a%2B-b30000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
 ## Final Skill Exam
